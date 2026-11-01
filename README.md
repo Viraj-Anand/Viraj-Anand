@@ -12,7 +12,7 @@ I work in decision analytics: getting business data into a shape where people ca
 ## Some things I've done
 
 - **[Leetcode-Solutions](https://github.com/Viraj-Anand/Leetcode-Solutions)**: 57 algorithm problems in Python and 33 SQL problems from the LeetCode SQL 50 set.
-- **[Amazon-ML-Challenge](https://github.com/Viraj-Anand/Amazon-ML-Challenge)**: our team's entry for the Amazon ML Challenge. Random forest, linear regression and XGBoost weren't good enough, so we moved to a neural network, which scored 96.2% on the challenge's metric.
+- **[Amazon-ML-Challenge](https://github.com/Viraj-Anand/Amazon-ML-Challenge)**: our team's attempt at the Amazon ML Challenge: predicting a product's length with a small neural network. It scored 96.3 on the challenge's scoring formula, measured on a held-out part of the training data.
 - **[Primates-Classifier](https://github.com/Viraj-Anand/Primates-Classifier)**: an image classifier that tells chimpanzees, gorillas and orangutans apart.
 
 ## Find me
