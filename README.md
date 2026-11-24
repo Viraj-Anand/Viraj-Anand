@@ -11,9 +11,9 @@ I work in decision analytics: getting business data into a shape where people ca
 
 ## Some things I've done
 
-- **[Leetcode-Solutions](https://github.com/Viraj-Anand/Leetcode-Solutions)**: 57 algorithm problems in Python and 33 SQL problems from the LeetCode SQL 50 set.
+- **[Leetcode-Solutions](https://github.com/Viraj-Anand/Leetcode-Solutions)**: 90 accepted solutions (41 Easy, 47 Medium, 2 Hard): 57 in Python grouped by technique, plus 33 from the LeetCode SQL 50 set.
 - **[Amazon-ML-Challenge](https://github.com/Viraj-Anand/Amazon-ML-Challenge)**: our team's attempt at the Amazon ML Challenge: predicting a product's length with a small neural network. It scored 96.3 on the challenge's scoring formula, measured on a held-out part of the training data.
-- **[Primates-Classifier](https://github.com/Viraj-Anand/Primates-Classifier)**: an image classifier that tells chimpanzees, gorillas and orangutans apart.
+- **[Primates-Classifier](https://github.com/Viraj-Anand/Primates-Classifier)**: a TensorFlow/Keras image classifier for chimpanzees, gorillas and orangutans, with a leak-free train/validation/test split, tests and CI-ready scripts.
 
 ## Find me
 
